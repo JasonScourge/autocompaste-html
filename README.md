@@ -21,7 +21,7 @@ You can either download as a zip file or clone this repository to get it running
   $ git clone git@github.com:<your username>/autocompaste-html.git
   ```
 
-You will need your own local web server to run experiment. [XAMPP](https://www.apachefriends.org/index.html) or [MAMP](https://www.mamp.info/en/) are good choices for quick and easy setting up of local web servers. If you have Python installed, a simpler way exists. Running the following command in the root of the repository directory will start a local web server at port 8000:
+You will need your own local web server to run experiment. [XAMPP](https://www.apachefriends.org/index.html) or [MAMP](https://www.mamp.info/en/) are good choices for quick and easy setting up of local web servers. If you have Python installed, which you should at least have Python 2 considering that you have done CS3240 before taking CS4249, a simpler way exists. Running the following command in the root of the repository directory will start a local web server at port 8000:
 
 ```
 $ python -m SimpleHTTPServer    // Python 2
